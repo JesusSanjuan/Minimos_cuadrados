@@ -1,0 +1,10 @@
+source,target
+Oportunidad,Satisfaccion
+Confiabilidad,Satisfaccion
+Honestidad,Satisfaccion
+Amabilidad,Satisfaccion
+Precio,Confianza
+Precio,Satisfaccion
+Satisfaccion,Reputacion
+Satisfaccion,Confianza
+Reputacion,Confianza
